@@ -9,6 +9,12 @@ pandas="*"
 gdown="*"
 scikit-learn="*"
 ipywidgets="*"
+notebook="*"
+jupyter ="*"
+jupyterlab ="*"
+ipykernel="*"
+nbconvert="*"
+nltk="*"
 
 
 
