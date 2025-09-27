@@ -17,6 +17,7 @@ nbconvert="*"
 nltk="*"
 spacy="*"
 
+pywinpty = {version = "==2.0.14", markers = "platform_system == 'Windows'"}
 
 
 [dev-packages]
